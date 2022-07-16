@@ -15,4 +15,8 @@
                 
  The Geolocation API is accessed
  
-        Via a call to navigator.geolocation
+        navigator.geolocation
+        
+The developer can now access this location information in a couple of different ways:
+
+         Geolocation.getCurrentPosition(): Retrieves the device's current location.
