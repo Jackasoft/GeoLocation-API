@@ -11,7 +11,7 @@
 
         WebExtensions that wish to use the Geolocation object must add the "geolocation" permission to their manifest.
         The user's operating system will prompt the user to allow location access the first time it is requested.
-                
+
                 
  The Geolocation API is accessed
  
